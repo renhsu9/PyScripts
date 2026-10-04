@@ -141,7 +141,7 @@ if __name__ == '__main__':
         obj.add_employee(emp2)
 
         # Call del_employee() method to delete emp3 objects - complete the code here
-        obj.del_employee(emp2)
+        obj.del_employee(emp3)
         
         # call write_to_file() method to overwrite the txt file employees.txt
         obj.write_to_file('employees.txt')
